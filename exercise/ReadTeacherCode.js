@@ -158,7 +158,7 @@ function toCode(p) {
         }
     }
     return address; 
-  } else { // if (p.type === "C")
+  } else {
     var d = dtable[p.d];
     var cx = ctable[p.c];
     var j = jtable[p.j];
