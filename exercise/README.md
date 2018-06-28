@@ -4,3 +4,7 @@
 
 評分時老師會看這裡！
 
+![image](https://github.com/gorox56/sp106b/blob/master/exercise/note01.png)
+![image](https://github.com/gorox56/sp106b/blob/master/exercise/note2.jpg)
+![image](https://github.com/gorox56/sp106b/blob/master/exercise/note3.jpg)
+![image](https://github.com/gorox56/sp106b/blob/master/exercise/note4.jpg)
