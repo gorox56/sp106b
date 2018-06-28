@@ -5,9 +5,10 @@
 評分時老師會看這裡！
 
 關於組譯器
-我只做出讀檔拆行這部分
+我只做出讀檔拆行
 
 筆記:
+
 ![image](https://github.com/gorox56/sp106b/blob/master/exercise/note01.png)
 ![image](https://github.com/gorox56/sp106b/blob/master/exercise/note2.jpg)
 ![image](https://github.com/gorox56/sp106b/blob/master/exercise/note3.jpg)
