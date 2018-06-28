@@ -2,5 +2,6 @@ var fs= require('fs');
 var file = process.argv[2]
 
 fs.readFile((__dirname, file),{encoding:"utf8"}, function (err,fRead) {   
-    console.log(fRead);    
+    var lines=fread.split(/\r?\n/);
+    console.log(lines);    
 });  
